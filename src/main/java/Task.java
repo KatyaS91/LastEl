@@ -30,9 +30,6 @@ public class Task {
                 min=i;
             }
         }
-
-        System.out.println(min);
-
     }
 }
 
